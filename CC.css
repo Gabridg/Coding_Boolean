@@ -1,0 +1,29 @@
+.Contenitore{width: 1000px;
+             height: 800px;
+             margin: auto;
+             background-color: rgba(16,16,16,0.5);
+             margin-top: 30px;
+             border-radius: 3%;}
+.logo{margin-top: 50px;
+      width: 300px;}
+header{text-align: center;
+       color: #00FF00 ;}
+nav{background-color: #00FF00 ;
+    border: 15px solid #00FF00;
+    text-align: center;}
+
+body{background-image: url(sfondo.jpg);
+     background-size: cover;}
+section h2{display: inline-block;}
+nav, main {font-family: Arial;
+           color: #FFFFFF;
+           margin: 0px 50px;}
+.distanza:before{content: "\2192";}
+#carica1, #carica2, #carica3{height: 24px;
+                             border-radius: 5px;}
+#carica1{width: 30%;
+         background-color: #ff9933;}
+#carica2{width: 55%;
+         background-color: #32cd32;}
+#carica3{width: 15%;
+         background-color: #8b0000;}
